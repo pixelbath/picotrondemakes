@@ -6,7 +6,9 @@
   </a>
 </p>
 
-This is a list of available video game demakes for the fantasy computer Picotron. If you are the author of one of these and want a different link to your game, feel free to submit a PR, or contact me (@pixelbath on Twitter, or https://vis.social/@pixelbath on Fediverse).
+This is a list of available video game demakes for the fantasy computer Picotron. If you are the author of one of these and want a different link to your game, feel free to submit a PR, or contact me (https://twitter.com/@pixelbath on Twitter, or https://vis.social/@pixelbath on Fediverse).
+
+I also have a list of [PICO-8 demakes](https://github.com/pixelbath/pico8demakes).
 
 ### Castlevania
 Picovania for Picotron by TurboChip https://www.lexaloffle.com/bbs/?tid=143944
